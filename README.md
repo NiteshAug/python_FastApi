@@ -6,7 +6,7 @@ creating fastapi crud operation using mysql database
 2. Download the latest version of Python for your operating system.
 
 # Installing Python In Intellij Idea
-1. Download and install intellij Idea Community Edition. Open IntelliJ IDEA. 
+1. Download and install intellij Idea Community Edition https://www.jetbrains.com/idea/download/. Open IntelliJ IDEA. 
 2. Install Python Plugin:
 3. Go to File > Settings 
 4. Navigate to Plugins. 
